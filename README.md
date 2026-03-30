@@ -12,3 +12,14 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 ✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
 
+## Findings:
+Female customers generate slightly higher revenue than male customers → opportunity for targeted marketing.
+Discount users who spend more (“smart shoppers”) are high-value customers → ideal for premium offers.
+Top-rated products (Blouse, Dress, Shirt) drive customer satisfaction → should be promoted more.
+Express shipping users spend ~12% more per order → faster delivery increases revenue.
+Subscribers spend 68% more and contribute 45% of revenue → strong impact on business growth.
+
+##Conclusion:
+This project successfully demonstrates an end-to-end data analytics workflow, transforming raw customer transaction data into meaningful business insights using Python, SQL, and Power BI. The analysis highlights that customer retention, subscription models, and premium services like express shipping play a crucial role in driving revenue growth.
+
+High-value customers and subscribers contribute a significant share of total revenue, while a large portion of new customers indicates untapped potential for retention strategies. Additionally, product preferences and discount behavior reveal opportunities for targeted marketing and optimized pricing
